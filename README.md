@@ -86,11 +86,3 @@ Buka browser dan akses aplikasi melalui: **[http://localhost:8000](http://localh
 - 🗂️ Manajemen Kategori Buku
 - 🎨 Tampilan antarmuka responsif menggunakan Tailwind CSS
 
----
-
-## 👤 Identitas Pengembang
-
-- **Nama:** Gideon Tampi
-- **NIM:** 23210161
-- **Mata Kuliah:** Pemrograman Web (UTS)
-- **GitHub:** [@Deonct](https://github.com/Deonct)
